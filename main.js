@@ -148,9 +148,9 @@ window.addEventListener('scroll', scrollActive)
 window.addEventListener('scroll', scrollUp)
 
    /*==================== DARK LIGHT THEME ====================*/
-   const themeButton = document.getElementById('theme-button')
+   const themeButton = document.getElementById("theme-button")
 const darkTheme = 'dark-theme'
-const iconTheme = 'uil-sun'
+const iconTheme = 'uil-sun' 
 
 // Previously selected topic (if user selected)
 const selectedTheme = localStorage.getItem('selected-theme')
