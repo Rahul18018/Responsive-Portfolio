@@ -691,7 +691,7 @@
      .services__modal-content{
          position: relative;
          background-color: var(--container-color);
-         padding: .8rem;
+         padding: .5rem;
          border-radius: .5rem;
      }
 
