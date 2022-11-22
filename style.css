@@ -521,18 +521,18 @@
     }
 
 
-    .skills__php{
-        width: 80%;
+    .skills__sb{
+        width: 70%;
     }
     .skills__node{
         width: 70%;
     }
-    .skills__firebase{
+    /* .skills__firebase{
         width: 60%;
-    }
-    .skills__python{
+    } */
+    /* .skills__python{
         width: 50%;
-    }
+    } */
 
     .skills__figma{
         width: 80%;
