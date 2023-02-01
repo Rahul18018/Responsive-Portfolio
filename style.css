@@ -499,7 +499,7 @@
      }
 
      .skills__dsa{
-         width: 75%;
+         width: 80%;
      }
      .skills__html{
         width: 90%;
@@ -513,35 +513,35 @@
     .skills__react{
         width: 70%;
     }
-    .skills__bs{
+    .skills__sb{
         width: 90%;
     }
     .skills__sql{
-        width: 75%;
+        width: 80%;
     }
 
 
-    .skills__sb{
-        width: 70%;
+    .skills__kafka{
+        width: 80%;
     }
-    .skills__node{
-        width: 70%;
+    .skills__redis{
+        width: 90%;
     }
-    /* .skills__firebase{
-        width: 60%;
-    } */
+    .skills__bs{
+        width: 80%;
+    }
     /* .skills__python{
         width: 50%;
     } */
 
     .skills__figma{
-        width: 80%;
+        width: 60%;
     }
     .skills__sketch{
-        width: 70%;
+        width: 60%;
     }
     .skills__photoshop{
-        width: 85%;
+        width: 65%;
     }
 
     .skills__close .skills__list{
